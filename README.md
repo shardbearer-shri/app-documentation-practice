@@ -1,2 +1,2 @@
-# app-documentation-practice
+# documentation
 - Practice repo for web app documentation.
